@@ -1,9 +1,6 @@
-﻿---
-title: CONSTITUTION FOR SDSM&T UNMANNED AERIAL VEHICLE TEAM
-date: February 1, 2017
----
+﻿# CONSTITUTION FOR SDSM&T UNMANNED AERIAL VEHICLE TEAM
 
-# PREAMBLE
+## PREAMBLE
 
 The SDSM&T Unmanned Aerial Vehicle Team will be one that designs
 aerial robots with the intent of taking part in various
@@ -13,12 +10,12 @@ associated with building aerial robots. As a byproduct of taking part
 in competitions, SDSM&T will benefit by becoming more familiar to
 people in the unmanned aerial robotics community.
 
-# ARTICLE I. NAME
+## ARTICLE I. NAME
 
 The name of the organization shall be SDSM&T Unmanned Aerial Vehicle
 Team.
 
-# ARTICLE II. PURPOSE
+## ARTICLE II. PURPOSE
 
 The purpose of the SDSM&T Unmanned Aerial Vehicle Team shall be the
 following:
@@ -39,7 +36,7 @@ following:
 5. To comply with the requirements of our sponsors, such as the Army
    Research Laboratory.
 
-# ARTICLE III. MEMBERSHIP
+## ARTICLE III. MEMBERSHIP
 
 1. General membership shall be open to all SDSM&T students.
    Membership may be rescinded due to university disciplinary standing
@@ -84,7 +81,7 @@ following:
    Rehabilitation Act of 1973, and the Americans with Disabilities Act
    of 1990.
 
-# ARTICLE IV. OFFICERS' QUALIFICATIONS AND DUTIES
+## ARTICLE IV. OFFICERS' QUALIFICATIONS AND DUTIES
 
 1. The officers of the organization shall be the following: Chief
    Engineer, Team Manager, Chief Information Officer, Recording
@@ -97,7 +94,7 @@ following:
    member must have been active and in good standing the previous
    semester.
 
-## The duties of the officers shall be as follows:
+### The duties of the officers shall be as follows:
 
 1. Chief Engineer - Presides over general meetings when the team
    manager is absent.  Approves projects for members to be involved
@@ -140,7 +137,7 @@ following:
    competitions to best promote SDSM&T in the robotics community.
    Will be responsible for all press releases.
 
-# ARTICLE V. ELECTION OF OFFICERS
+## ARTICLE V. ELECTION OF OFFICERS
 
 1. Officers will be selected through a process of being nominated by
    team members, giving a speech to the team, and obtaining a majority
@@ -185,9 +182,9 @@ following:
    notified during the first weekly meeting after the vacancy occurs
    and by e-mail.
 
-# ARTICLE VI. IMPEACHMENT AND VACANCIES
+## ARTICLE VI. IMPEACHMENT AND VACANCIES
 
-## 1. Impeachment of Officers
+### 1. Impeachment of Officers
 
 1. Any member of the organization may bring charges against an
    officer. It will take a unanimous vote of the officers, excluding
@@ -203,7 +200,7 @@ following:
 4. A 2/3 vote of the voting body is then required to effect the
    removal of the officer.
 
-## 2. Filling Vacancies
+### 2. Filling Vacancies
 
 1. All vacancies in elected positions shall be filled for the
    remainder of the unexpired term.
@@ -216,7 +213,7 @@ following:
    session, the remaining officers shall appoint the replacement with
    the advice and counsel of the advisor.
 
-# ARTICLE VII. FACULTY / STAFF ADVISOR
+## ARTICLE VII. FACULTY / STAFF ADVISOR
 
 This group shall have an advisor who is interested in the purpose of
 and gives counsel to the organization. The advisor must be a full-time
@@ -225,13 +222,13 @@ or appointed on an annual basis by the majority of the organization's
 general membership. The advisor serves as an ex-officio member and
 does not vote.
 
-# ARTICLE VIII. DUES
+## ARTICLE VIII. DUES
 
 Dues shall be collected at the first general meeting of each semester,
 which will occur within the first two (2) weeks of classes. Amount of
 Dues is specified in the bylaws.
 
-# ARTICLE IX. MEETINGS
+## ARTICLE IX. MEETINGS
 
 1. Meetings shall be held regularly at a time to be specified by the
    organization at the beginning of each semester.  There should be at
@@ -244,7 +241,7 @@ Dues is specified in the bylaws.
 3. A quorum of membership for voting purposes shall be reached when
    2/3 of the general members are voting.
 
-# ARTICLE X. COMMITTEES
+## ARTICLE X. COMMITTEES
 
 1. Standing Committees shall be composed of only one committee, that
    being the Sub-Team Leader Committee.  Project leaders shall be
@@ -259,15 +256,15 @@ Dues is specified in the bylaws.
    leaders.  Will advise on all major issues including but not limited
    to the budget, tooling and sponsorship.
 
-# ARTICLE XI. RULES OF ORDER
+## ARTICLE XI. RULES OF ORDER
 
 Robert's Rules of Order shall be used as a guide by the presiding
 officer in all situations not covered by provisions of the
 constitution.
 
-# ARTICLE XII. BY-LAWS AND AMENDMENTS
+## ARTICLE XII. BY-LAWS AND AMENDMENTS
 
-## By-laws
+### By-laws
 
 1. By-laws must be in accordance with this constitution as amended.
 
@@ -278,7 +275,7 @@ constitution.
    approval of this constitution by the Committee on Student
    Organizations.
 
-## Amendments
+### Amendments
 
 1. Amendments must be in accordance with this constitution as amended.
 
@@ -293,13 +290,13 @@ constitution.
 5. Proposed amendments will be read during 2 weekly business meetings
    prior to the vote.
 
-# ARTICLE XIII. RATIFICATION
+## ARTICLE XIII. RATIFICATION
 
 This constitution shall be enforced upon ratification by 2/3 of the
 voting body, and upon approval of this constitution by the Committee
 on Student Organizations.
 
-# ARTICLE XIV. UNIVERSITY POLICIES
+## ARTICLE XIV. UNIVERSITY POLICIES
 
 1. This organization, including all members, officers and advisors,
    agrees to abide by all SDSM&T regulations, policies and procedures
@@ -326,15 +323,15 @@ on Student Organizations.
    alterations to these waivers, this organization shall first
    contact the EHS Manager for approval.
 
-# BY-LAWS FOR SDSM&T UNMANNED AERIAL VEHICLE TEAM
+## BY-LAWS FOR SDSM&T UNMANNED AERIAL VEHICLE TEAM
 
-## ARTICLE I. DUES
+### ARTICLE I. DUES
 
 The SDSM&T Aerial Vehicle Team believes that the work put in by the
 students is sufficient and will not impose any additional dues or fees
 upon its members.
 
-## ARTICLE II. MEETING
+### ARTICLE II. MEETING
 
 1. General membership meetings will be held at a time to be specified
    by the organization at the beginning of each semester.  There
@@ -343,11 +340,11 @@ upon its members.
 2. Officers will meet after the general membership meeting or upon an
    officer or advisor calling for a special officers meeting.
 
-## ARTICLE III. AMENDMENTS TO BY-LAWS
+### ARTICLE III. AMENDMENTS TO BY-LAWS
 
 1. Any member in good standing may present amendments to the by-laws.
 
 2. Amendments to the by-laws shall be adopted by a 2/3 vote of the
    voting body.
 
-## ARTICLE IV. AMENDMENTS
+### ARTICLE IV. AMENDMENTS
