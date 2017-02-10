@@ -2,7 +2,7 @@
 
 ## PREAMBLE
 
-The SDSM&T Unmanned Aerial Vehicle Team will be one that designs
+The SDSM&T Unmanned Aerial Vehicle (UAV) Team will be one that designs
 aerial robots with the intent of taking part in the International
 Aerial Robotics Competition (IARC).  The purpose of the team is to
 design and build UAVs and subsystems to compete, serve as a platform
@@ -22,22 +22,19 @@ Team.
 The purpose of the SDSM&T Unmanned Aerial Vehicle Team shall be the
 following:
 
-1. To compete in the International Aerial Robotics Competition and
-   win.
+1. To compete in the International Aerial Robotics Competition
 
-2. To develop new technologies and novel ways of integrating
-   Commercial Off The Shelf (COTS) hardware with existing software to
-   facilitate (1)
+2. To develop new technologies to facilitate (1)
 
-3. To serve as a platform for personal development of skills for
-   under-graduate and a vehicle for research for graduate students.
+3. To serve as a platform for personal development of skills and 
+   research
 
 4. To give students an actual metric for success with an achievable
    goal to develop the critical skills of meeting deadlines, budgets,
    operating constraints, operating in a team environment, and develop
-   leadership and self-reliance.
+   leadership and self-reliance
 
-5. To lead by example in competition and grow in prestige by
+5. To lead by example through competition and grow in prestige by
    performance in the SDSM&T and UAV community
 
 ## ARTICLE III. MEMBERSHIP
@@ -50,15 +47,10 @@ and exclusion processes should not be undertaken lightly and only when
 necessary.
 
 1. "Meeting attendance privilege" shall be open to all SDSM&T
-   students, faculty, and staff.  Membership may only be granted as
-   described below.  Membership may be rescinded due to university
-   disciplinary standing or at the written request of one or more of a
-   member’s professors.  Additionally, non-officer membership and
-   meeting attendance privilege may be revoked by 2/3 majority vote of
-   all active members for any reason.
+   students, faculty, and staff.  
 
 2. "Active membership" shall be granted automatically at the start of
-   the 6th attended meeting unless the officer core wishes to put
+   the 6th attended meeting unless the officers wish to put
    membership to a vote at weekly administrative meeting.  Active
    membership bestows voting privilege as laid out throughout the
    constitution.  Additionally, active membership is necessary to be
@@ -67,16 +59,21 @@ necessary.
 3. "Associate membership" shall be composed of faculty and staff of
    SDSM&T and/or community professionals in mechanical, electrical,
    and computer science industries.  Associate membership shall be
-   granted by 2/3 majority vote of officer core.  Associate members
+   granted by 2/3 majority vote of officers.  Associate members
    will be allowed to voice opinions in team matters but will not be
    allowed to cast a vote in decisions.
 
-4. Members are considered to be in good standing if they attend at
+4. Active members are considered to be in good standing if they attend at
    least 3/4 of the scheduled meetings per semester.  Only members in
-   good standing can vote. This requirement should only be observed
-   for active membership.
+   good standing can vote.
 
-5. Nondiscrimination: This organization does not discriminate in
+5. Membership may be rescinded due to university
+   disciplinary standing or at the written request of one or more of a
+   member's professors.  Additionally, non-officer membership and
+   meeting attendance privilege may be revoked by 2/3 majority vote of
+   all active members for any reason.
+
+6. Nondiscrimination: This organization does not discriminate in
    membership selection, officer election or other appointments, or
    practices of organizational activities on the basis of race, color,
    national origin, military status, gender, religion, age, sexual
@@ -84,7 +81,7 @@ necessary.
 
 ### Dues
 
-The SDSM&T Aerial Vehicle Team believes that the work put in by the
+The SDSM&T UAV Team believes that the work put in by the
 students is sufficient and will not impose any additional dues or fees
 upon its members.  All funding will be sought through other means such
 as research grants, school funding, CAMP funding, Student Association
@@ -102,7 +99,7 @@ Active members in good standing are allowed to vote on all items
 explicitly granted to them in this constitution. Additionally, members
 are allowed to vote on items directed by the president during the
 weekly administrative meeting.  Votes in the latter case will be by
-simple majority unless the officer core determines unanimously that
+simple majority unless the officers determines unanimously that
 they want a different requirement.
 
 ## ARTICLE IV. OFFICERS
@@ -169,30 +166,26 @@ Confidence vote by remaining officers.
 	d. Determines agenda for meetings and sends out agenda at least 24
 	hours prior to scheduled meeting time
 
-    e. Holds ownership of all logins for group accounts, keys for all
-    meeting and work areas, and maintains standing necessary for all.
+	e. Holds ownership of all logins for group accounts, keys for all
+	meeting and work areas, and maintains standing necessary for all.
 
-    f. Ultimately responsible for maintaining and broadcasting
+	f. Ultimately responsible for maintaining and broadcasting
 	development timeline for competition.
 
 2. Vice President - Responsibilities are as follows
 
 	a. Attends CAMP meeting and if unable ensures a representative is
-       present for team
+	present for team
 
-	b. Takes attendance at meetings and maintains standings of all
-       members/participants
+	b. Takes attendance at meetings and determines and maintains standings 
+	of all members/participants
 
 	c. Records minutes and broadcasts to all team members/interested
-       parties
+	parties
 
-    d. Secondary for Presidents responsibilities if necessary
+	d. Secondary for Presidents responsibilities if necessary
 
-	e. Responsible for content management repository and
-	standardization of development environment, software version,
-	hardware, etc.  when deemed necessary
-
-	f. Reports weekly on responsibilities
+	e. Reports weekly on responsibilities
 
 3. Treasurer - Responsibilities are as follows
 
@@ -203,12 +196,15 @@ Confidence vote by remaining officers.
 	team's financial position at the end of each semester and when
 	demanded from the team’s supporters.
 
-	c. Along with any other two officers, will approve all orders for
-	materials totaling more than $50.
+	c. Purchases totaling more than $50 shall require, along with any 
+	other two officers, the approval of the Treasurer.
+	
+	d. Reimbursement for purchases under $50 requires approval of the 
+	Treasurer.
 
-	d. Responsible for processing all funding requests
+	e. Responsible for processing all funding requests
 
-	e. Responsible for processing all reimbursement requests
+	f. Responsible for processing all reimbursement requests
 
 4. Public Relations Chair - Responsibilities are as follows
 
@@ -295,7 +291,8 @@ is essential to their effectiveness and overall team performance.
    president at the beginning of the semester
 
 2. Special meetings may be called by the President, Vice President, or
-   quorum of elected officers as need dictates
+   quorum of elected officers as need dictates.  Special meetings do not
+   affect membership standing negatively.
 
 3. A quorum of membership for voting purposes shall be reached when
    2/3 of the general members are voting.
